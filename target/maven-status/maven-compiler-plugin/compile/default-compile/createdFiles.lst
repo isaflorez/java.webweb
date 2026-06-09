@@ -1,0 +1,5 @@
+config\Config.class
+daos\CategoriaDAO.class
+clases\Categoria.class
+clases\Producto.class
+controllers\CategoriaController.class
